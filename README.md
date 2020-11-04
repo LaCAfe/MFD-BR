@@ -2,9 +2,9 @@
 
 The  Moral Foundations Theory defines foundations to explain human moral reasoning and its role in the decision-making process, including how information is perceived and interpreted.
 
-The Moral Foundations Dictionary (MFD) is a dictionary used to explore variations in moral concerns, based on the Moral Foundations Theory.
+The Moral Foundations Dictionary (MFD) is a dictionary used to explore variations in moral concerns, based on the Moral Foundations Theory. It was created by Jesse Graham and Jonathan Haidt for use with the Linguistic Inquiry and Word Count (LIWC) program (www.liwc.net).
 
-**MFD-BR** is the version of MFD in Brazilian Portuguese and can be used to explore variations in moral concerns in Brazilian Portuguese. **MFD-BR** is designed to be configured with the LIWC software as a customized dictionary. 
+**MFD-BR** is the version of MFD in Brazilian Portuguese and can be used to explore variations in moral concerns in Brazilian Portuguese. **MFD-BR** is designed to be configured with the LIWC program as a customized dictionary. 
 
 Like the original MFD, **MFD-BR** has eleven categories: a general one for morality aspects, five categories for "virtues", and five for "vices". The percentage of words on such categories brings linguistic information about the five foundations for moral judgment.
 
