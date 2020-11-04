@@ -1,0 +1,723 @@
+﻿%					
+HarmVirtue	1				
+HarmVice	2				
+FairnessVirtue	3				
+FairnessVice	4				
+IngroupVirtue	5				
+IngroupVice	6				
+AuthorityVirtue	7				
+AuthorityVice	8				
+PurityVirtue	9				
+PurityVice	10				
+MoralityGeneral	11				
+%					
+abriga*	1				
+abrigo	1				
+abrigou	1				
+abriguei	1				
+afetuos*	1				
+amizade	1				
+benefici*	1				
+benefício*	1				
+carinhos*	1				
+cautel*	1				
+compaix*	1				
+conserv*	1	7	9		
+cuidado*	1				
+defender*	1				
+empati*	1				
+empátic*	1				
+escudo	1				
+guarda*	1				
+guerra*	1				
+guerrea*	1				
+luta*	1				
+pacífic*	1				
+paz	1				
+preserv*	1	7	9		
+proteç*	1				
+proteg*	1				
+protej*	1				
+refúgio	1				
+segura*	1				
+seguro*	1				
+simpati*	1				
+simpátic*	1				
+sofre*	1				
+sosseg*	1				
+tranquil*	1				
+					
+abandon*	2	6			
+abus*	2				
+ameaç*	2				
+aniquil*	2				
+arruin*	2	10			
+assassin*	2				
+assol*	2				
+atac*	2				
+ataq*	2				
+brutais	2				
+brutal*	2				
+combat*	2				
+cruéis	2				
+cruel*	2				
+danifi*	2				
+deserta	2	6			
+desertad*	2	6			
+desertais	2	6			
+desertam	2	6			
+desertamos	2	6			
+desertámos	2	6			
+desertando	2	6			
+desertar	2	6			
+desertará	2	6			
+desertaram	2	6			
+desertarão	2	6			
+desertarás	2	6			
+desertarei	2	6			
+desertareis	2	6			
+desertaremos	2	6			
+desertas	2	6			
+desertaste	2	6			
+desertastes	2	6			
+desertei	2	6			
+deserto	2	6			
+desertor*	2	6	8		
+desertou	2	6			
+desprez*	2				
+destruir	2				
+detriment*	2				
+devast*	2				
+doer	2				
+esmag*	2				
+estrag*	2				
+explora	2	10			
+explorada*	2	10			
+explorado	2	10			
+explorados	2	10			
+explorando	2	10			
+explorar	2	10			
+fere	2				
+ferem	2				
+feres	2				
+feri	2				
+feria	2				
+feriam	2				
+feríamos	2				
+ferias	2				
+ferida*	2				
+ferido*	2				
+feríeis	2				
+ferimos	2				
+ferindo	2				
+ferir	2				
+ferira	2				
+ferirá	2				
+feriram	2				
+feríramos	2				
+ferirão	2				
+feriras	2				
+ferirás	2				
+ferirei	2				
+ferireis	2				
+feríreis	2				
+feriremos	2				
+feris	2				
+feriste	2				
+feristes	2				
+feriu	2				
+firo	2				
+machuc*	2				
+magoar	2				
+maltrat*	2				
+mata	2				
+matador*	2				
+matais	2				
+matam	2				
+matamos	2				
+matando	2				
+matar	2				
+matará	2				
+mataram	2				
+matarão	2				
+matarás	2				
+matare*	2				
+matas	2				
+mataste	2				
+matastes	2				
+matei	2				
+mato	2				
+matou	2				
+prejudic*	2				
+rejeiç*	2				
+rejeit*	2				
+ruína*	2	10			
+sofra*	2				
+sofri*	2				
+subjug*	2				
+violência*	2				
+violenta	2				
+violentas	2				
+violento	2				
+violentos	2				
+					
+constante	3				
+direitos	3				
+equidade*	3				
+eqüidade*	3				
+equilibrad*	3				
+equilíbrio	3				
+equitativo	3				
+equivalente*	3				
+fairplay	3				
+homólogo*	3				
+honest*	3	11			
+igualdade	3				
+igualitár*	3				
+imparcia*	3				
+justa	3	11			
+justas	3	11			
+justiça	3				
+justific*	3				
+justo	3	11			
+justos	3	11			
+leal*	3	5	7		
+neutra	3				
+neutralidade	3				
+neutras	3				
+neutro	3				
+neutros	3				
+razoáve*	3				
+razoavelmente	3				
+reciproc*	3				
+recíproc*	3				
+tolerante*	3				
+uniforme	3				
+uniformidade*	3				
+					
+desigua*	4				
+desonest*	4				
+despropor*	4				
+discrimina*	4				
+dissoci*	4				
+excluem	4				
+exclui	4				
+excluí	4				
+excluíd*	4				
+excluímos	4				
+excluindo	4				
+excluir	4				
+excluirá	4				
+excluíram	4				
+excluirão	4				
+excluirás	4				
+excluirei	4				
+excluireis	4				
+excluiremos	4				
+excluis	4				
+excluís	4				
+excluíste	4				
+excluístes	4				
+excluiu	4				
+excluo	4				
+exclusão	4				
+favoritism*	4				
+inescrup*	4				
+iníqu*	4				
+iniquidade	4				
+iniqüidade	4				
+injusta*	4				
+injusti*	4				
+injusto*	4				
+intoler*	4				
+preconceit*	4				
+preferência*	4				
+segrega*	4	5			
+viés	4				
+vieses	4				
+					
+aliada*	5				
+comuna	5				
+comunais	5				
+comunal	5				
+comunas	5				
+comungar	5				
+conjunto	5				
+grupo	5				
+iniciada*	5				
+agrup*	5				
+alia	5				
+aliado*	5				
+aliais	5				
+aliam	5				
+aliamos	5				
+aliámos	5				
+aliar	5				
+aliará	5				
+aliaram	5				
+aliarás	5				
+aliarei	5				
+aliareis	5				
+aliaremos	5				
+alias	5				
+aliaste	5				
+aliastes	5				
+aliei	5				
+alio	5				
+aliou	5				
+camarada	5				
+camaradas	5				
+coletiv*	5				
+comunidade	5				
+comunismo	5				
+comunista*	5				
+comunitári*	5				
+coorte	5				
+dedic*	5				
+devoção	5				
+devota	5				
+devotais	5				
+devotam	5				
+devotamos	5				
+devotámos	5				
+devotará	5				
+devotaram	5				
+devotarão	5				
+devotarás	5				
+devotarei	5				
+devotareis	5				
+devotaremos	5				
+devotas	5				
+devotaste	5				
+devotastes	5				
+devotei	5				
+devoto	5				
+devotos	5				
+devotou	5				
+família	5				
+familiar	5				
+famílias	5				
+fiel*	5	7			
+fiéis	5	7			
+grêmio	5				
+guilda	5				
+iniciado*	5				
+junta	5				
+juntos	5				
+membro	5				
+membros	5				
+nação	5				
+panela*	5				
+panelinha*	5				
+pátria*	5				
+patriota	5				
+solidariedade	5				
+une	5				
+unem	5				
+unes	5				
+uni	5				
+unida*	5				
+unido*	5				
+unimos	5				
+unir	5				
+unirá	5				
+uniram	5				
+unirão	5				
+unirás	5				
+unirei	5				
+unireis	5				
+uniremos	5				
+unis	5				
+unísson*	5				
+uniste	5				
+unistes	5				
+uniu	5				
+uno	5				
+					
+apostasia*	6	8	10		
+apóstata*	6	8	10		
+canalha*	6				
+desleais	6	8			
+desleal*	6	8			
+enganad*	6				
+enganando	6				
+enganar	6				
+espião	6				
+estrangeira*	6				
+estrangeiro*	6				
+imigra*	6				
+impostor*	6				
+individua*	6				
+inimig*	6				
+meliante*	6				
+renegad*	6				
+renegando	6				
+renegar	6				
+sequestrar	6				
+seqüestro*	6				
+terroris*	6				
+traem	6	8			
+trai	6	8			
+traí	6	8			
+traição	6	8			
+traiçoeir*	6	8			
+traíd*	6	8			
+traidor*	6	8			
+traímos	6	8			
+traio	6	8			
+trair	6	8			
+trairá	6	8			
+traíram	6	8			
+trairão	6	8			
+trairás	6	8			
+trairei	6	8			
+traireis	6	8			
+trairemos	6	8			
+trais	6	8			
+traís	6	8			
+traíste	6	8			
+traístes	6	8			
+traiu	6	8			
+					
+adiad*	7				
+adiar	7				
+atende	7				
+atendeis	7				
+atendem	7				
+atendemos	7				
+atender	7				
+atenderá	7				
+atenderam	7				
+atenderão	7				
+atenderás	7				
+atenderei	7				
+atendereis	7				
+atenderemos	7				
+atendes	7				
+atendeste	7				
+atendestes	7				
+atendeu	7				
+atendi	7				
+atendo	7				
+autoridade*	7				
+burguesia	7				
+casta*	7	9			
+classe	7				
+classificação*	7				
+comando	7				
+controla	7				
+controlais	7				
+controlam	7				
+controlamos	7				
+controlámos	7				
+controlar	7				
+controlará	7				
+controlaram	7				
+controlarão	7				
+controlarás	7				
+controlarei	7				
+controlareis	7				
+controlaremos	7				
+controlas	7				
+controlaste	7				
+controlastes	7				
+controlei	7				
+controlo	7				
+controlou	7				
+cumprir	7				
+dever	7				
+deveres	7				
+diferid*	7				
+enviar	7				
+hierarquia*	7				
+honorífic*	7				
+honra	7				
+honrad*	7				
+honrais	7				
+honram	7				
+honramos	7				
+honrámos	7				
+honrar	7				
+honrará	7				
+honraram	7				
+honrarão	7				
+honrarás	7				
+honrarei	7				
+honrareis	7				
+honraremos	7				
+honras	7				
+honraste	7				
+honrastes	7				
+honrei	7				
+honro	7				
+honrou	7				
+legal	7	11			
+legalmente	7	11			
+lei	7				
+leis	7				
+líder*	7				
+mãe	7				
+mães	7				
+mamãe*	7				
+materna*	7				
+maternidade	7				
+obedece	7				
+obedeceis	7				
+obedecem	7				
+obedecemos	7				
+obedecendo	7				
+obedecer	7				
+obedecerá	7				
+obedeceram	7				
+obedecerão	7				
+obedecerás	7				
+obedecerei	7				
+obedecereis	7				
+obedeceremos	7				
+obedeces	7				
+obedeceste	7				
+obedecestes	7				
+obedeceu	7				
+obedeci	7				
+obedecid*	7				
+obedeço	7				
+obediente*	7				
+obrigaç*	7				
+ordem	7				
+pai	7				
+papai*	7				
+permissão	7				
+permite	7				
+permitem	7				
+permites	7				
+permiti	7				
+permitimos	7				
+permitir	7				
+permitirá	7				
+permitiram	7				
+permitirão	7				
+permitirás	7				
+permitirei	7				
+permitireis	7				
+permitiremos	7				
+permitis	7				
+permitiste	7				
+permitistes	7				
+permitiu	7				
+permito	7				
+posiç*	7				
+posiocionament*	7				
+queixa*	7				
+respeita	7				
+respeitad*	7				
+respeitais	7				
+respeitam	7				
+respeitamos	7				
+respeitámos	7				
+respeitando	7				
+respeitar	7				
+respeitará	7				
+respeitaram	7				
+respeitarão	7				
+respeitarás	7				
+respeitarei	7				
+respeitareis	7				
+respeitaremos	7				
+respeitas	7				
+respeitaste	7				
+respeitastes	7				
+respeitei	7				
+respeito*	7				
+reverenciad*	7				
+servir	7				
+status	7				
+supremacia	7				
+tradiç*	7				
+tradicion*	7				
+venerad*	7				
+venerar	7				
+veneráve*	7				
+					
+agitad*	8				
+agitar	8				
+alienad*	8				
+alienar	8				
+amotinad*	8				
+denunciar	8				
+desafiador*	8				
+desafiante*	8				
+desafiar*	8				
+desobede*	8				
+desrespeit*	8				
+dissidência*	8				
+dissidente*	8				
+herege*	8	10			
+ilegais	8				
+ilegal	8				
+ilegalmente	8				
+infiel	8				
+insubordina*	8				
+insurgênc*	8				
+insurgente*	8				
+obstruir	8				
+opor	8				
+protest*	8				
+rebelar	8				
+rebeld*	8				
+recusa	8				
+recusar	8				
+sedição	8				
+subvers*	8				
+subverter	8				
+tumult*	8				
+					
+abstenção	9				
+abstinência	9				
+austeridade	9				
+castidade	9				
+casto*	9				
+celibat*	9				
+decência	9	11			
+decente*	9	11			
+donzela	9				
+estéreis	9				
+estéril	9				
+esteriliz*	9				
+igreja*	9				
+imaculad*	9				
+incorrupt*	9				
+inocente*	9	11			
+integridade	9	11			
+intocad*	9				
+limpa*	9				
+limpez*	9				
+límpid*	9				
+limpo*	9				
+modéstia	9				
+perpendicular	9	11			
+piedade	9	11			
+piedos*	9	11			
+pura	9				
+puras	9				
+pureza	9				
+puro*	9				
+refinad*	9				
+sagrad*	9				
+salutar*	9	11			
+santa*	9				
+santidade	9				
+santo*	9				
+virgem	9				
+virgens	9				
+virgina*	9				
+virgindade	9				
+virtuos*	9				
+					
+adulter*	10				
+adúlter*	10				
+contagios*	10				
+contaminad*	10				
+corromp*	10				
+degenerad*	10				
+deprava*	10				
+desgraçad*	10	11			
+desluziment*	10				
+devassa*	10				
+doença*	10				
+doente*	10				
+doenti*	10				
+execra*	10				
+execráve*	10				
+imoralidade	10				
+impiedade	10				
+ímpio*	10				
+impur*	10				
+imund*	10				
+indecênc*	10	11			
+indecent*	10	11			
+indecoros*	10				
+intempestiv*	10				
+labéu	10				
+lasciv*	10				
+lascívia*	10				
+lixos*	10				
+mácula*	10				
+maculad*	10				
+manchad*	10				
+miseráve*	10				
+nojent*	10				
+nojo	10				
+obscen*	10				
+pecado	10				
+pecador*	10				
+pecados	10				
+pecaminos*	10				
+pecando	10				
+pecar	10				
+perdulári*	10				
+pervers*	10	11			
+perverter	10				
+pervertid*	10				
+piranha	10				
+pródig*	10				
+profan*	10				
+promíscu*	10				
+promiscuid*	10				
+prostitui*	10				
+prostitut*	10				
+puta	10				
+rebaixar	10				
+relaxad*	10				
+repugnância	10				
+repugnante*	10				
+repulsiv*	10				
+sujeira*	10				
+vagabunda	10				
+					
+apropriad*	11				
+boa	11				
+bom	11				
+bondade	11				
+cânone	11				
+correta	11				
+corretas	11				
+correto	11				
+corretos	11				
+doutrina	11				
+errad*	11				
+ética*	11				
+eticamente	11				
+exemplar*	11				
+ideais	11				
+ideal	11				
+imoral	11				
+imorais	11				
+inculpáve*	11				
+íntegr*	11				
+laudáve*	11				
+lição	11				
+louváve*	11				
+mal	11				
+males	11				
+mau	11				
+maus	11				
+morais	11				
+moral	11				
+moralmente	11				
+nobre	11				
+nobres	11				
+ofend*	11				
+ofensiv*	11				
+personage*	11				
+princípio*	11				
+retidão	11				
+reto	11				
+ruim	11				
+ruins	11				
+trangress*	11				
+transgredir	11				
+válid*	11				
+valor	11				
+valores	11				
+valoriz*	11				
+valoros*	11				
